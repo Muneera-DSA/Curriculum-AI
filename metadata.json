@@ -1,0 +1,6 @@
+{
+  "name": "ChefSave - Food Waste Reduction & Culinary Engine",
+  "description": "Smart culinary assistant that analyzes food inventory, tracks shelf life and expiration risk, and generates fast, delicious recipes prioritizing ingredients that need to be eaten first.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
